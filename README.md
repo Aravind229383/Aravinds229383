@@ -42,11 +42,4 @@ So that's me thank you.</h3>
 <hr>
 <img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css"/>
  <img src ="https://skillicons.dev/icons?i=javascript,arduino,raspberrypi,github,linux,nodejs,php,vscode"/>
- 
- <h1 align="center">Connect with me</h1>
- <hr>
-<a href="www.linkedin.com/in/s-aravind-654154256?
-  utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-<a href="https://instagram.com/sidharth_v_nair?igshid=NGVhN2U2NjQ0Yg=="><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-blue%20?style=social&logo=instagram&logoColor=red-blue"/></a>
-<a href="https://x.com/SidharthVNair?t=BsOCmC649VZYq53bd6qExQ&s=09"><img alt="Static Badge" src="https://img.shields.io/badge/twitter-blue?style=social&logo=X"/></a>
-<a href="mailto:sidharthvnair3@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-blue?style=social&logo=Gmail&logoColor=Red"/></a>
+
