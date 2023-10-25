@@ -9,9 +9,9 @@ https://holopin.me/aravind229383
 
 - 💬 Ask me about **programming related c, python, Web development**
 
-- 📫 How to reach me **sidharthvnair3@gmail.com**
+- 📫 How to reach me **aravinds229383@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm very cool**
   <br>
   <br>
   <br>
@@ -24,10 +24,10 @@ https://holopin.me/aravind229383
 Now I am doing my B.E. in computer science and engineering in AJ Institute of Engineering and Technology.
 l like to do computer programming and l am interested in doing project works. I participated in many exhibition.
 l have some basic knowledge about electronics. So I use my knowledge in both electronics and computer programming to do my project.
-And the other areas in which I'm interested is in sports. l like to play badminton. I'm not a professional player but I know to play.
+And the other areas in which I'm interested is in sports. l like to play football. I'm not a professional player but I know to play.
 
-some of my specialities are I am good at typing so it will help me to do programme faster.
-I know to create android application using block programming software.
+some of my specialities are I am good at typing so it will help me programme faster.
+I know to create android application using flutter.
 
 So that's me thank you.</h3>
 <hr>
