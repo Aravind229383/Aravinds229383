@@ -30,16 +30,4 @@ some of my specialities are I am good at typing so it will help me programme fas
 I know to create android application using flutter.
 
 So that's me thank you.</h3>
-<hr>
-<h3>My github status</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidharthzidzid" alt="sidharthzidzid" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharthzidzid&show_icons=true&locale=en&layout=compact" alt="sidharthzidzid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidharthzidzid&show_icons=true&locale=en" alt="sidharthzidzid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthzidzid&" alt="sidharthzidzid" /></p>
-<h1 align="center">Skills</h1>
-<hr>
-<img src ="https://skillicons.dev/icons?i=c,cpp,python,java,flutter,androidstudio,html,css"/>
- <img src ="https://skillicons.dev/icons?i=javascript,arduino,raspberrypi,github,linux,nodejs,php,vscode"/>
 
