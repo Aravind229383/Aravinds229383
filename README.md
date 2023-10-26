@@ -1,5 +1,4 @@
-[![An image of @aravind229383's Holopin badges, which is a link to view their full Holopin]
-profile(https://holopin.me/aravind229383)]
+[![An image of @aravind229383's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aravind229383)](https://holopin.io/@aravind229383)
 https://holopin.me/aravind229383
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&color=4AF7B2&multiline=true&random=false&height=100&lines=Hi+%F0%9F%91%8B+;I'm+S+Aravind!" alt="S ARAVIND" /></a>
